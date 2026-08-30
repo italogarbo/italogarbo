@@ -7,8 +7,11 @@
 Desenvolvendo soluções através da  
 **Zbyte Tecnologia**
 
-[![Site](https://img.shields.io/badge/Site-Zbyte_Tecnologia-00BFEF?style=for-the-badge)](https://www.zbytetecnologia.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](COLOQUE-SEU-LINK-AQUI)
+[![Site](https://img.shields.io/badge/Site-Zbyte_Tecnologia-00BFEF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.zbytetecnologia.com.br)
+
+[![LinkedIn Pessoal](https://img.shields.io/badge/LinkedIn-Ítalo_Garbo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italogarbo/)
+
+[![LinkedIn Zbyte](https://img.shields.io/badge/LinkedIn-Zbyte_Tecnologia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/zbytetecnologia/)
 
 </div>
 
