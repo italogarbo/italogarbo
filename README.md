@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Ítalo Garbo 👋
+# Olá, eu sou o Ítalo Garbo Costa 👋
 
 ### Tecnologia, infraestrutura e segurança para empresas
 
